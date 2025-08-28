@@ -1,3 +1,8 @@
-td{text-align:center};
-#black{background-color:black;}
-/* Your CSS Code here. */
+
+      /* You can keep this in style.css if you prefer */
+      #black {
+        background-color: black;
+        color: white;
+      }
+      table { border-collapse: ; }
+      th, td { border: 1px solid #000; padding: 6px; text-align: center; }
